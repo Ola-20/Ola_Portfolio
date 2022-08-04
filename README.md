@@ -9,7 +9,7 @@
 •	Built dashboard in power BI from scratch for finance, sales, marketing, supply chain, and executives which will support the organisation in gross margin improvement. A special view for gross margin and deduction trend was also included. Below based on the selected parameter, the chart and it's tilte changed dynamically
 
 
-![](/images/finance_view.JPG)
+![](https://github.com/Ola-20/Ola_Portfolio/blob/main/images/revenue%20view.JPG)
 
 • Project was executed using project management skills: Project charter (Using Mural), stakeholder mapping analysis, Kanban board for task assignment to improve productivity
 
