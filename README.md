@@ -29,6 +29,6 @@
 
 •	Built dashboard in power BI from scratch that provide key insight on the fly
 
-![](/images/revenue%20view.JPG)
+![](https://github.com/Ola-20/Ola_Portfolio/blob/main/images/revenue%20view.JPG)
 
 •	This dashboard automatically gives the user information about top markets for revenue and profit margin contribution, therefore aiding transparency and proper decision making towards profitability. (Example: The strategy used in some markets with good profit margin could be looked into and replicated to other region)
