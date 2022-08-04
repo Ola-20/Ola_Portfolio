@@ -29,4 +29,6 @@
 
 •	Built dashboard in power BI from scratch that provide key insight on the fly
 
+
+
 •	This dashboard automatically gives the user information about top markets for revenue and profit margin contribution, therefore aiding transparency and proper decision making towards profitability. (Example: The strategy used in some markets with good profit margin could be looked into and replicated to other region)
