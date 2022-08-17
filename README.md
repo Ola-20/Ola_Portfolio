@@ -2,7 +2,7 @@
 
 •	This is an end-to-end Data analysis project that produced a report that was shared on the online power BI platform, which enable users to make a data informed decision
 
-•	Connected Power BI to <span style="MySQL"> WORD</span>, Excel to import about 4 million records. Performed data transformation in Power Query using GUI and M language.
+•	Connected Power BI to MySQL, Excel to import about 4 million records. Performed data transformation in Power Query using GUI and M language.
 
 •	Other column calculations and creation of measures and parameters ware completed with DAX language in main Power BI platform
 
