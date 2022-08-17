@@ -46,3 +46,5 @@
 •	Other column calculations and creation of measures and parameters were completed with DAX language in main Power BI platform
 
 •	Built dashboard in power BI from scratch that provide key insight
+
+![](/images/default.JPG)
