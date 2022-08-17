@@ -32,3 +32,17 @@
 ![](/images/revenue%20view.JPG)
 
 •	This dashboard automatically gives the user information about top markets for revenue and profit margin contribution, therefore aiding transparency and proper decision making towards profitability. (Example: The strategy used in some markets with good profit margin could be looked into and replicated to other region)
+
+
+
+# [Monkeypox Insight Analytics](https://github.com/Ola-20/PowerBI-projects/blob/main/Monkeypox/ReadMe.md)
+
+•	This is an end-to-end Data analysis project that produced a report that allows stake holders to consume information relating to monkeypox occurrence
+
+•	Downloaded Excel data, completed initial exploration and data cleaning
+
+•	Imported 39K records, performed data transformation in Power Query using GUI and M language.
+
+•	Other column calculations and creation of measures and parameters were completed with DAX language in main Power BI platform
+
+•	Built dashboard in power BI from scratch that provide key insight
