@@ -19,7 +19,7 @@
 
 
 
-# [Project 2: Akra Sales Insight Analytics](https://github.com/Ola-20/PowerBI-projects/blob/main/Akra/ReadMe.md)
+# [Project 2: Akra Sales Insight Analytics](https://github.com/Ola-20/PowerBI-projects/tree/main/Akra%20Sales%20Insight)
 
 •	This is an end-to-end Data analysis project that produced a report that allows stake holders to consume information relating revenue and sales quantity
 
