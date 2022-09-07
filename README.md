@@ -13,7 +13,7 @@
 
 • Project was executed using project management skills: Project charter (Using Mural), stakeholder mapping analysis, Kanban board for task assignment to improve productivity
 
-• Finally the project will be reviewed by stakeholders by collaboration via the power BI online platform and this can drive organisation business decisions
+• Finally the project will be reviewed by stakeholders by collaboration via the power BI online platform and this can drive business decisions in an organization
 
 
 
