@@ -1,4 +1,4 @@
-# [Project 1: Mapol Business Insight Analytics (Student's Project)](https://github.com/Ola-20/PowerBI-projects)
+# [Project 1: Mapol Business Insight Analytics (Student's Project)](https://github.com/Ola-20/PowerBI_Projects/blob/main/Mapol_BI_Analytics/README.md)
 
 •	This is an end-to-end Data analysis project that produced a report that was shared on the online power BI platform, which enable users to make a data informed decision
 
