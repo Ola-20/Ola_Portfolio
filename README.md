@@ -35,7 +35,7 @@
 
 
 
-# [Project 3: Monkeypox Insight Analytics](https://github.com/Ola-20/PowerBI-projects/blob/main/Monkeypox/ReadMe.md)
+# [Project 3: Monkeypox Insight Analytics](https://github.com/Ola-20/PowerBI_Projects/tree/main/Monkeypox)
 
 •	This is a data analysis project that produced a report that allows stake holders to consume information relating to monkeypox occurrence
 
