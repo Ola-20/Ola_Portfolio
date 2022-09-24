@@ -1,4 +1,4 @@
-# [Project 1: Mapol Business Insight Analytics (Student's Project)](https://github.com/Ola-20/PowerBI_Projects/blob/main/Mapol_BI_Analytics/README.md)
+# [Project 1: Mapol Business Insight Analytics](https://github.com/Ola-20/PowerBI_Projects/blob/main/Mapol_BI_Analytics/README.md)
 
 Mapol is a tech company that produces hardware, distribute to different customers, from where products get sold to consumers all over the world
 
